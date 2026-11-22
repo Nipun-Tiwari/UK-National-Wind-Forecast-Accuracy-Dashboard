@@ -9,7 +9,7 @@
 A single-page analytical dashboard that compares Elexon WINDFOR day-ahead wind generation forecasts against
 FUELHH half-hourly actuals for January 2026. It quantifies forecast accuracy (MAE, RMSE, bias, nMAE, nRMSE)
 using a fixed decision-time cutoff (09:20 UTC the day before delivery, **provisional**) and exposes the
-results through a FastAPI backend and a React/Recharts frontend.
+results through a FastAPI backend and a React/Recharts frontend
 
 ---
 
